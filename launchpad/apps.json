@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Calibre",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre 64bit - E-book Management\\calibre 64bit - E-book management.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\calibre_1770922236520.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922236520
+  },
+  {
+    "title": "Chrome",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\google_chrome_1770922303534.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922303534
+  },
+  {
+    "title": "FileZilla",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\FileZilla FTP Client\\FileZilla.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\filezilla_1770922275047.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922275048
+  },
+  {
+    "title": "Firefox",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\firefox_1770915987212.png",
+    "type": "app",
+    "group": null,
+    "id": 1770915987213
+  },
+  {
+    "title": "Jellyfin",
+    "path": "C:\\Users\\rodri\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Jellyfin Server\\Jellyfin Tray App.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\jellyfin_1770922357292.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922357293
+  },
+  {
+    "title": "Sublime",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sublime Text.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\sublime_text_1770915870646.png",
+    "type": "app",
+    "group": null,
+    "id": 1770915870646
+  },
+  {
+    "title": "Thunderbird",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Thunderbird.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\thunderbird_1770922649230.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922649231
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\Users\\rodri\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\visual_studio_code_1770924032177.png",
+    "type": "app",
+    "group": null,
+    "id": 1770924032177
+  },
+  {
+    "title": "WinRAR",
+    "path": "C:\\Users\\rodri\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\winrar_1770922818668.png",
+    "type": "app",
+    "group": null,
+    "id": 1770922818668
+  },
+  {
+    "title": "YASB",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\YASB.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\yasb_1770915307789.png",
+    "type": "app",
+    "group": null,
+    "id": 1770915307789
+  },
+  {
+    "title": "Rainmeter",
+    "path": "C:\\Users\\rodri\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Rainmeter.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\rainmeter_1770924341321.png",
+    "type": "app",
+    "group": null,
+    "id": 1770924341321
+  },
+  {
+    "title": "WinSCP",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinSCP.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\winscp_1770924561530.png",
+    "type": "app",
+    "group": null,
+    "id": 1770924561531
+  },
+  {
+    "title": "NVIDIA App",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\NVIDIA App.lnk",
+    "icon": "C:\\Users\\rodri\\.config\\yasb\\launchpad\\icons\\nvidia_app_1770985312796.png",
+    "type": "app",
+    "group": null,
+    "id": 1770985312804
+  }
+]
